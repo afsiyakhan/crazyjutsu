@@ -1,0 +1,2 @@
+# crazyjutsu
+github practical demo
